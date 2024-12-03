@@ -1,5 +1,8 @@
 # M5Stack Cardputer RFID2 Project
 
+M5Stack CardputerとRFID2ユニットを使ってRFIDタグを読み書きします。
+このプログラムはあくまで動作確認用として作成しているもので、そのままなにかのアプリケーションに役立てられるというものではありません。
+カードデータを初期化（ブロック１を空白16文字で埋める）するトリガにJOYSTICK２をつかっています。
 This project demonstrates how to use the M5Stack Cardputer with the RFID2 unit using UiFlow2 and Python.
 
 ## Setup
