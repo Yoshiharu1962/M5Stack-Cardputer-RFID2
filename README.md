@@ -27,5 +27,5 @@ This project demonstrates how to use the M5Stack Cardputer with the RFID2 unit u
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Block Image
+## ALL Blocks
 ![uiflow2_block_1733192348880](https://github.com/user-attachments/assets/33d37bf5-fdf9-4c98-b49f-adae5c81f628)
