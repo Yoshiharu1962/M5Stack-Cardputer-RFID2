@@ -1,2 +1,27 @@
-# M5Stack-Cardputer-RFID2
-Read and write RFID tags using M5Stack Cardputer and RFID2 module.
+# M5Stack Cardputer RFID2 Project
+
+This project demonstrates how to use the M5Stack Cardputer with the RFID2 unit using UiFlow2 and Python.
+
+## Setup
+
+1. Connect the M5Stack Cardputer to your computer.
+2. Install the necessary libraries and dependencies.
+3. Upload the provided Python code to your device.
+
+## Usage
+
+- The code reads and writes data to an RFID card.
+- It also uses a joystick for additional control.
+
+## Requirements
+
+- M5Stack Cardputer
+- RFID2 unit
+- Joystick2 unit
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Block Image
+![uiflow2_block_1733192348880](https://github.com/user-attachments/assets/33d37bf5-fdf9-4c98-b49f-adae5c81f628)
